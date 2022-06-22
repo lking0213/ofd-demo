@@ -1,0 +1,10 @@
+*.iml
+**/targetJar/*
+*.project
+*.classpath
+*.settings
+*.log
+*.idea
+*.scannerwork
+target
+!HxZhPlatform/Monitor-Service-UI/target/
